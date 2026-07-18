@@ -1,16 +1,26 @@
-## Hi there 👋
+George Charles Jr.
+Data Analyst | SQL | Python | Power BI | Excel
 
-<!--
-**Keoki15/Keoki15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 Long Beach, CA
 
-Here are some ideas to get you started:
+About Me
+I'm a Business Administration graduate passionate about turning data into actionable insights. My projects focus on SQL, Python, Excel, Power BI, and business process optimization.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 Skills
+• Python
+• SQL
+• Excel
+• Power BI
+• Tableau
+• MySQL
+
+📂 Featured Projects
+⚽ FIFA Player Value Analysis
+🍕 Domino's Operations Optimization
+📊 Sales Dashboard (Power BI)
+🐍 Python Data Cleaning Scripts
+📈 Excel Business Analytics
+
+📫 Connect
+LinkedIn: www.linkedin.com/in/george-charles-jr-bb8462399
+Email: gcharles15@icloud.com
