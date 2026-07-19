@@ -1,72 +1,69 @@
 # Hi, I'm George Charles Jr. 👋
 
-### Data Analyst | SQL | Python | Power BI | Excel
+### 📊 Aspiring Data Analyst | Business Analytics | SQL • Python • Power BI • Excel
 
 📍 Long Beach, California
 
-## 👨‍💻 About Me
+---
 
-I'm an aspiring Data Analyst and Business Administration graduate passionate about using data to solve business problems and improve decision-making. Through my internship, academic projects, and professional experience, I've developed hands-on experience in data analysis, SQL, Python, Excel, Power BI, and process optimization.
+## About Me
 
-My work includes cleaning and analyzing large datasets, building SQL databases, creating dashboards, improving operational workflows, and using data-driven insights to solve real-world business challenges. As a former NCAA student-athlete, I've also developed strong leadership, teamwork, discipline, and time management skills that I bring to every project.
+I'm an aspiring Data Analyst with a background in Business Administration and a passion for transforming raw data into actionable insights. Through academic projects, internships, and hands-on experience, I've developed skills in data cleaning, SQL, Python, Excel, Power BI, Tableau, and business process optimization.
 
-This GitHub showcases projects completed through my coursework, internship, and personal learning as I continue building my career in Data Analytics.
+My goal is to help organizations make informed decisions through data-driven analysis, visualization, and continuous process improvement. This GitHub showcases projects that reflect my growth as an analyst and my commitment to learning new technologies.
 
 ---
 
-## 🛠 Technical Skills
+## Technical Skills
 
-**Languages & Tools**
+### Programming & Analytics
 - Python
 - SQL
+- MySQL
 - Excel
 - Power BI
 - Tableau
-- MySQL
 
-**Analytics**
+### Data Analytics
 - Data Cleaning
 - Exploratory Data Analysis (EDA)
 - Data Visualization
-- Regression Analysis
 - Dashboard Development
+- Regression Analysis
 - Process Optimization
 
 ---
 
-## 📂 Featured Projects
+## Featured Projects
 
-⚽ **FIFA Player Value Analysis**
-- Cleaned and analyzed 10K+ player records using Excel and SQL to identify key drivers of player market value.
+### ⚽ FIFA Player Value Analysis
+Analyzed 10,000+ player records using Excel, SQL, and Tableau to identify factors influencing player market value and build interactive dashboards.
 
-🍕 **Domino's Operations Optimization**
-- Designed AI-driven workflow improvements to optimize delivery routes and reduce order errors.
+### 🍕 Domino's Operations Optimization
+Designed a data-driven operations improvement plan using AI-assisted route optimization, GPS tracking, and root cause analysis to improve delivery performance and reduce order errors.
 
-📊 **Power BI Dashboards**
-- Interactive dashboards that transform raw business data into actionable insights.
+### 🚴 Bike Sales Excel Analytics Portfolio
+A collection of Excel projects demonstrating data preparation, cleaning, sorting, PivotTables, outlier analysis, lookup functions, and business visualizations.
 
-🐍 **Python Data Analytics**
-- Python scripts for data cleaning, automation, and analysis.
-
-📈 **Excel Business Analytics**
-- Business reporting, KPI tracking, and process improvement projects.
+### 🐍 Python Projects
+Python programs focused on automation, problem-solving, and data analysis while preparing for the PCEP certification.
 
 ---
 
-## 🌱 Current Focus
+## Current Focus
 
 - Building a professional data analytics portfolio
 - Strengthening SQL, Python, and Power BI skills
-- Developing end-to-end analytics projects
-- Preparing for the **PCEP – Certified Entry-Level Python Programmer** certification
+- Expanding Tableau and business intelligence projects
+- Preparing for the PCEP – Certified Entry-Level Python Programmer certification
 - Seeking opportunities in Data Analytics, Business Analytics, and Operations Analytics
 
 ---
 
-## 📫 Connect With Me
+## Let's Connect
 
-💼 **LinkedIn:**  
-https://www.linkedin.com/in/george-charles-jr-bb8462399
+💼 **LinkedIn**  
+www.linkedin.com/in/george-charles-jr-bb8462399
 
-📧 **Email:**  
+📧 **Email**  
 Gcharles15@icloud.com
